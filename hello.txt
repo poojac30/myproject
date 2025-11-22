@@ -2,3 +2,4 @@ Hello Git!
 This is my second change.
 
 This is a change in the feature1 branch.
+This is feature 2.
